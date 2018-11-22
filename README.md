@@ -1,1 +1,1 @@
-# OH-shapefile
+# Ohio Election Shapefile
