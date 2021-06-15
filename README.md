@@ -62,9 +62,11 @@ Demographic data were aggregated from the block level using MGGG’s proration s
 This shapefile uses a NAD83(Harn)/UTM zone 17 North projection (EPSG:3747).
 
 
-# Notes for OH-VTD shapefile
+
+
+## Notes for OH-16-20 shapefile
 The shapefile is a lightly edited VTD. Edits are based on more recent shapefiles from counties. A few precincts were merged to match election results.
-This shapefile was compiled and processed by the Metric Geometry and Gerrymandering Group (MGGG) to include 2020 election data and 2019 ACS data. 
+This shapefile was compiled and processed by the Metric Geometry and Gerrymandering Group (MGGG) to include 2016 and 2020 election data and 2019 ACS demography data. 
 
 Election abbreviations are all according to our codes except supreme court justices. Those are SCJ. There's SCJ20D1/R1, SCJ20D2/R2, and SCJ20D/R. The ones without numbers are summed by party. 1 is the O'Donnell/Kennedy race, 2 is Brunner/French. You can read more about this on [Ballotpedia](https://ballotpedia.org/Ohio_Supreme_Court), but Ohio Supreme Court elections are technicallly nonpartisan and they come out of a partisan primary so it's basically a partisan in practice even if it's not official.
 
